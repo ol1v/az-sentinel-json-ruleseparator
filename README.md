@@ -1,7 +1,7 @@
 
 
 ```bash
-chmod -x ./ruleseparator
+chmod +x ./ruleseparator
 ```
 
 ```bash
